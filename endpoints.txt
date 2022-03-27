@@ -1,3 +1,2 @@
 Prometheus: http://52.49.50.218:9090/graph
 Grafana: http://52.49.50.218:3000
-Web Server: http://52.49.50.218/
