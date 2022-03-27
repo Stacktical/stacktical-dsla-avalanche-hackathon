@@ -1,0 +1,1 @@
+CCHAIN %{time_total}\n
